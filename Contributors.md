@@ -2345,6 +2345,7 @@
 - [Kamau Mbugua](https://github.com/kk-mbugua)
 - [Uriel](https://github.com/urieltfk)
 - [Saddam](https://github.com/saddam-sde)
+- [Darragh M](https://github.com/darragh4)
 - [Lorraine](https://github.com/WambiruL)
 - [MastroChou](https://github.com/MastroChou)
 - [Negan Nguyen](https://github.com/nenene1812)
